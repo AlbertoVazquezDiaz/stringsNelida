@@ -15,7 +15,7 @@ public class Main {
         return texto.toLowerCase();
     }
 
-    public static int contarPalabras(String texto) {
+      public static int contarPalabrasAlberto(String texto) {
         return texto.trim().split("\\s+").length;
     }
 
